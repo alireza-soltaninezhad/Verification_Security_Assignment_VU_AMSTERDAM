@@ -1,6 +1,6 @@
-# Verification_Security_Assignment_VU_AMSTERDAM
+## Verification_Security_Assignment_VU_AMSTERDAM
 
-# This was second project description by by the vrije university Amsterdam for the verification for security course by Dr. Klaus v. Gleissenthall
+## This was second project description by by the vrije university Amsterdam for the verification for security course by Dr. Klaus v. Gleissenthall
 
 **HW 2: Due June 2, 2022, 23:59**
 
